@@ -1,0 +1,35 @@
+img:hover{ 
+width:150px;
+height:150px;
+
+}
+
+tr:nth-child(odd)
+{
+	background-color:#F6BAFE ;
+}
+tr:nth-child(even)
+{
+	background-color:#E0FFFF;
+}
+body {
+background-image: url("640-Connecting-Rods-l.jpg");
+
+}
+
+.tableP
+{
+   width: 60%;
+   position:  relative;
+   left: 70px;
+    top : 20px;
+}
+
+
+.image
+{
+ position: absolute ;
+ left: 650px;
+   top: 10px;
+ 
+}
